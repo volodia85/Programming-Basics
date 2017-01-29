@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\DalyProfit\bin\Debug\DalyProfit.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\DalyProfit\bin\Debug\DalyProfit.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\DalyProfit\bin\Debug\DalyProfit.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\DalyProfit\obj\Debug\DalyProfit.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\DalyProfit\obj\Debug\DalyProfit.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\DalyProfit\obj\Debug\DalyProfit.pdb

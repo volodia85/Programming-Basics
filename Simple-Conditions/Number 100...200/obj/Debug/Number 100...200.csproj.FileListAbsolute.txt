@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Number 100...200\bin\Debug\Number_100._._._200.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Number 100...200\bin\Debug\Number_100._._._200.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Number 100...200\bin\Debug\Number_100._._._200.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Number 100...200\obj\Debug\Number_100._._._200.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Number 100...200\obj\Debug\Number_100._._._200.pdb

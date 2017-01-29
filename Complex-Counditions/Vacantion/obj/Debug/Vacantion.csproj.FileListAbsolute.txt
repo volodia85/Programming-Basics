@@ -1,0 +1,6 @@
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Vacantion\bin\Debug\Vacantion.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Vacantion\bin\Debug\Vacantion.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Vacantion\bin\Debug\Vacantion.pdb
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Vacantion\obj\Debug\Vacantion.csprojResolveAssemblyReference.cache
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Vacantion\obj\Debug\Vacantion.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Vacantion\obj\Debug\Vacantion.pdb

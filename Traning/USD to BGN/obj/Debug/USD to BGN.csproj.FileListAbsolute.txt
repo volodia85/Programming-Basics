@@ -1,0 +1,5 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\USD to BGN\bin\Debug\USD to BGN.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\USD to BGN\bin\Debug\USD to BGN.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\USD to BGN\bin\Debug\USD to BGN.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\USD to BGN\obj\Debug\USD to BGN.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\USD to BGN\obj\Debug\USD to BGN.pdb

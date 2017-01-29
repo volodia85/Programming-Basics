@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Latin Letters\bin\Debug\Latin Letters.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Latin Letters\bin\Debug\Latin Letters.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Latin Letters\bin\Debug\Latin Letters.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Latin Letters\obj\Debug\Latin Letters.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Latin Letters\obj\Debug\Latin Letters.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Latin Letters\obj\Debug\Latin Letters.csprojResolveAssemblyReference.cache

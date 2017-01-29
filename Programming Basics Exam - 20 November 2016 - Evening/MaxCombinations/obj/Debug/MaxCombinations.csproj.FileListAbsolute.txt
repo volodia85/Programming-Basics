@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\MaxCombinations\bin\Debug\MaxCombinations.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\MaxCombinations\bin\Debug\MaxCombinations.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\MaxCombinations\bin\Debug\MaxCombinations.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\MaxCombinations\obj\Debug\MaxCombinations.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\MaxCombinations\obj\Debug\MaxCombinations.pdb

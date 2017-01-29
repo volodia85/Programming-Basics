@@ -1,0 +1,6 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csprojResolveAssemblyReference.cache
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

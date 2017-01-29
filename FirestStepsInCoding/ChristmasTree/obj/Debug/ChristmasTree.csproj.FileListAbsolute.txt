@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\FirestStepsInCoding\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\FirestStepsInCoding\ChristmasTree\bin\Debug\ChristmasTree.exe
+c:\users\volodia\documents\visual studio 2015\Projects\FirestStepsInCoding\ChristmasTree\bin\Debug\ChristmasTree.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\FirestStepsInCoding\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\FirestStepsInCoding\ChristmasTree\obj\Debug\ChristmasTree.exe
+c:\users\volodia\documents\visual studio 2015\Projects\FirestStepsInCoding\ChristmasTree\obj\Debug\ChristmasTree.pdb

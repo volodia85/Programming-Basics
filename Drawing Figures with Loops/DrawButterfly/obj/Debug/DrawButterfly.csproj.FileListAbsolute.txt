@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawButterfly\bin\Debug\DrawButterfly.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawButterfly\bin\Debug\DrawButterfly.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawButterfly\bin\Debug\DrawButterfly.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawButterfly\obj\Debug\DrawButterfly.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawButterfly\obj\Debug\DrawButterfly.pdb

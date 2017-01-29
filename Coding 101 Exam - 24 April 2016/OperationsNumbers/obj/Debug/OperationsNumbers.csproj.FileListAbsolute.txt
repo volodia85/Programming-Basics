@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\OperationsNumbers\bin\Debug\OperationsNumbers.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\OperationsNumbers\bin\Debug\OperationsNumbers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\OperationsNumbers\bin\Debug\OperationsNumbers.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\OperationsNumbers\obj\Debug\OperationsNumbers.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\OperationsNumbers\obj\Debug\OperationsNumbers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\OperationsNumbers\obj\Debug\OperationsNumbers.pdb

@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Change Tiles\bin\Debug\Change Tiles.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Change Tiles\bin\Debug\Change Tiles.exe
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Change Tiles\bin\Debug\Change Tiles.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Change Tiles\obj\Debug\Change Tiles.exe
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Change Tiles\obj\Debug\Change Tiles.pdb

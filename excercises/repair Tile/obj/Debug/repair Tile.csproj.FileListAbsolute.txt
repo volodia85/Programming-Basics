@@ -1,0 +1,6 @@
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\repair Tile\bin\Debug\repair Tile.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\repair Tile\bin\Debug\repair Tile.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\repair Tile\bin\Debug\repair Tile.pdb
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\repair Tile\obj\Debug\repair Tile.csprojResolveAssemblyReference.cache
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\repair Tile\obj\Debug\repair Tile.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\repair Tile\obj\Debug\repair Tile.pdb

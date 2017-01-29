@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\PointOfLine\bin\Debug\PointOfLine.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\PointOfLine\bin\Debug\PointOfLine.exe
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\PointOfLine\bin\Debug\PointOfLine.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\PointOfLine\obj\Debug\PointOfLine.exe
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\PointOfLine\obj\Debug\PointOfLine.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\PointOfLine\obj\Debug\PointOfLine.csprojResolveAssemblyReference.cache

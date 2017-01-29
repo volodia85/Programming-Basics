@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\Histogram\bin\Debug\Histogram.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\Histogram\bin\Debug\Histogram.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\Histogram\obj\Debug\Histogram.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\Histogram\obj\Debug\Histogram.pdb

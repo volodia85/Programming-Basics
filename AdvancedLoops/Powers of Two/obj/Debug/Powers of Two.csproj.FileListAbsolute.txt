@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Powers of Two\bin\Debug\Powers of Two.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Powers of Two\bin\Debug\Powers of Two.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Powers of Two\bin\Debug\Powers of Two.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Powers of Two\obj\Debug\Powers of Two.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Powers of Two\obj\Debug\Powers of Two.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Powers of Two\obj\Debug\Powers of Two.csprojResolveAssemblyReference.cache

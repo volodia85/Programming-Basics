@@ -1,0 +1,5 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass1\bin\Debug\StupitPass1.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass1\bin\Debug\StupitPass1.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass1\bin\Debug\StupitPass1.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass1\obj\Debug\StupitPass1.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass1\obj\Debug\StupitPass1.pdb

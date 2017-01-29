@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

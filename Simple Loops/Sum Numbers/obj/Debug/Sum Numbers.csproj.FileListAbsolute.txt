@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.csprojResolveAssemblyReference.cache

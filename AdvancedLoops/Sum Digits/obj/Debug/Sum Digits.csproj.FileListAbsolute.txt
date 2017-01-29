@@ -1,0 +1,5 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Sum Digits\bin\Debug\Sum Digits.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Sum Digits\bin\Debug\Sum Digits.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Sum Digits\bin\Debug\Sum Digits.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Sum Digits\obj\Debug\Sum Digits.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Sum Digits\obj\Debug\Sum Digits.pdb

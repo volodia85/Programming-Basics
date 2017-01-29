@@ -1,0 +1,5 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Fibonacci\obj\Debug\Fibonacci.pdb

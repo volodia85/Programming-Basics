@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Flower Shop\bin\Debug\Flower Shop.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Flower Shop\bin\Debug\Flower Shop.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Flower Shop\bin\Debug\Flower Shop.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Flower Shop\obj\Debug\Flower Shop.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Flower Shop\obj\Debug\Flower Shop.pdb

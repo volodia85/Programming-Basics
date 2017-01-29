@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond.pdb

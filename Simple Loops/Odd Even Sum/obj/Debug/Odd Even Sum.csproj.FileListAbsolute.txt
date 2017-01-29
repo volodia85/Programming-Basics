@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd Even Sum\obj\Debug\Odd Even Sum.pdb

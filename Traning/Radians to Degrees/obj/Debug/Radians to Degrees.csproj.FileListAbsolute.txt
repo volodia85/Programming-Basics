@@ -1,0 +1,5 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devide", "devide\devide.csproj", "{337583B3-6944-47E1-B516-04C55AA03865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicNumber", "MagicNumber\MagicNumber.csproj", "{8CC757A1-65EF-4D52-BA6A-D69D4B649DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{7310844C-2F8C-459F-AEB0-8423125C903A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337583B3-6944-47E1-B516-04C55AA03865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337583B3-6944-47E1-B516-04C55AA03865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337583B3-6944-47E1-B516-04C55AA03865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337583B3-6944-47E1-B516-04C55AA03865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC757A1-65EF-4D52-BA6A-D69D4B649DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC757A1-65EF-4D52-BA6A-D69D4B649DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC757A1-65EF-4D52-BA6A-D69D4B649DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC757A1-65EF-4D52-BA6A-D69D4B649DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7310844C-2F8C-459F-AEB0-8423125C903A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7310844C-2F8C-459F-AEB0-8423125C903A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7310844C-2F8C-459F-AEB0-8423125C903A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7310844C-2F8C-459F-AEB0-8423125C903A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

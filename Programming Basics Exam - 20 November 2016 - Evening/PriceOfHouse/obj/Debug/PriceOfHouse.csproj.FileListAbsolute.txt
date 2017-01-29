@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\PriceOfHouse\bin\Debug\PriceOfHouse.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\PriceOfHouse\bin\Debug\PriceOfHouse.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\PriceOfHouse\bin\Debug\PriceOfHouse.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\PriceOfHouse\obj\Debug\PriceOfHouse.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\PriceOfHouse\obj\Debug\PriceOfHouse.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\PriceOfHouse\obj\Debug\PriceOfHouse.pdb

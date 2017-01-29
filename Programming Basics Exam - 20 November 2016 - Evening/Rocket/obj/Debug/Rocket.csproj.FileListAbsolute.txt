@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Rocket\bin\Debug\Rocket.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Rocket\bin\Debug\Rocket.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Rocket\bin\Debug\Rocket.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Rocket\obj\Debug\Rocket.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Rocket\obj\Debug\Rocket.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Rocket\obj\Debug\Rocket.pdb

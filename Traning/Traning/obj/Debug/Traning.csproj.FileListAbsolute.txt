@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Traning\Traning\bin\Debug\Traning.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Traning\Traning\bin\Debug\Traning.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Traning\Traning\bin\Debug\Traning.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Traning\Traning\obj\Debug\Traning.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Traning\Traning\obj\Debug\Traning.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Traning\Traning\obj\Debug\Traning.pdb

@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.csprojResolveAssemblyReference.cache

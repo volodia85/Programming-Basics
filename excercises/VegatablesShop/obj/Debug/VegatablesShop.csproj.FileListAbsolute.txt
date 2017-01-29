@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\VegatablesShop\bin\Debug\VegatablesShop.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\VegatablesShop\bin\Debug\VegatablesShop.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\VegatablesShop\bin\Debug\VegatablesShop.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\VegatablesShop\obj\Debug\VegatablesShop.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\VegatablesShop\obj\Debug\VegatablesShop.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\VegatablesShop\obj\Debug\VegatablesShop.pdb

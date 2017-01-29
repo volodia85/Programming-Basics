@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\PriceOfTrans\bin\Debug\PriceOfTrans.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\PriceOfTrans\bin\Debug\PriceOfTrans.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\PriceOfTrans\bin\Debug\PriceOfTrans.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\PriceOfTrans\obj\Debug\PriceOfTrans.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\PriceOfTrans\obj\Debug\PriceOfTrans.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\PriceOfTrans\obj\Debug\PriceOfTrans.pdb

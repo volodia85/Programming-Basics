@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.pdb

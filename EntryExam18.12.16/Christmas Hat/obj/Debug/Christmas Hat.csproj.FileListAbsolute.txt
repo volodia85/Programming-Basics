@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Christmas Hat\bin\Debug\Christmas Hat.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Christmas Hat\bin\Debug\Christmas Hat.exe
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Christmas Hat\bin\Debug\Christmas Hat.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Christmas Hat\obj\Debug\Christmas Hat.exe
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Christmas Hat\obj\Debug\Christmas Hat.pdb

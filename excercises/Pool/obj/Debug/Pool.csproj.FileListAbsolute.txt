@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\Pool\bin\Debug\Pool.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\Pool\obj\Debug\Pool.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\Pool\bin\Debug\Pool.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\Pool\bin\Debug\Pool.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\Pool\obj\Debug\Pool.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\Pool\obj\Debug\Pool.pdb

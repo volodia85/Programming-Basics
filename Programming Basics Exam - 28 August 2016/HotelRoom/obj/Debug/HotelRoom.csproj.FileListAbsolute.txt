@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\HotelRoom\bin\Debug\HotelRoom.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\HotelRoom\bin\Debug\HotelRoom.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\HotelRoom\bin\Debug\HotelRoom.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\HotelRoom\obj\Debug\HotelRoom.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\HotelRoom\obj\Debug\HotelRoom.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\HotelRoom\obj\Debug\HotelRoom.pdb

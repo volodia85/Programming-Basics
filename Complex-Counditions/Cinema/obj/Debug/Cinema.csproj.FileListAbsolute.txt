@@ -1,0 +1,6 @@
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Cinema\bin\Debug\Cinema.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Cinema\bin\Debug\Cinema.pdb
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Cinema\obj\Debug\Cinema.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Cinema\obj\Debug\Cinema.pdb

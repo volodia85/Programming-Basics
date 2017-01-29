@@ -1,0 +1,5 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

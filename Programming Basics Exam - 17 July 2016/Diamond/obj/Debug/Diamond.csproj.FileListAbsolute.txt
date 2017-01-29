@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Diamond\bin\Debug\Diamond.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Diamond\bin\Debug\Diamond.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Diamond\bin\Debug\Diamond.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Diamond\obj\Debug\Diamond.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Diamond\obj\Debug\Diamond.pdb

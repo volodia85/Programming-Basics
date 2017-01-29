@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 28 August 2016\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Numbers\bin\Debug\Numbers.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Numbers\bin\Debug\Numbers.pdb
+C:\Users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Numbers\obj\Debug\Numbers.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Numbers\obj\Debug\Numbers.pdb

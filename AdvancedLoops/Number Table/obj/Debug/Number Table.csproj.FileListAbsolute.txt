@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Table\bin\Debug\Number Table.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Table\bin\Debug\Number Table.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Table\bin\Debug\Number Table.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Table\obj\Debug\Number Table.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Table\obj\Debug\Number Table.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Table\obj\Debug\Number Table.pdb

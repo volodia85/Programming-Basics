@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 January 2016\SoftuniCamp\bin\Debug\SoftuniCamp.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 January 2016\SoftuniCamp\bin\Debug\SoftuniCamp.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 January 2016\SoftuniCamp\bin\Debug\SoftuniCamp.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 January 2016\SoftuniCamp\obj\Debug\SoftuniCamp.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 January 2016\SoftuniCamp\obj\Debug\SoftuniCamp.pdb

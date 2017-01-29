@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in Rectangle\bin\Debug\Point in Rectangle.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in Rectangle\bin\Debug\Point in Rectangle.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in Rectangle\bin\Debug\Point in Rectangle.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in Rectangle\obj\Debug\Point in Rectangle.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in Rectangle\obj\Debug\Point in Rectangle.pdb

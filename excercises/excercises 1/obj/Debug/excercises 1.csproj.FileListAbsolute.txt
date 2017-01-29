@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\excercises 1\bin\Debug\excercises 1.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\excercises 1\bin\Debug\excercises 1.exe
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\excercises 1\bin\Debug\excercises 1.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\excercises 1\obj\Debug\excercises 1.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\excercises 1\obj\Debug\excercises 1.exe
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\excercises 1\obj\Debug\excercises 1.pdb

@@ -1,0 +1,6 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Currency Converter\bin\Debug\Currency Converter.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Currency Converter\bin\Debug\Currency Converter.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Currency Converter\bin\Debug\Currency Converter.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Currency Converter\obj\Debug\Currency Converter.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Currency Converter\obj\Debug\Currency Converter.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Currency Converter\obj\Debug\Currency Converter.csprojResolveAssemblyReference.cache

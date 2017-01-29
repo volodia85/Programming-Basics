@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd  Even Position\bin\Debug\Odd  Even Position.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd  Even Position\bin\Debug\Odd  Even Position.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd  Even Position\bin\Debug\Odd  Even Position.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd  Even Position\obj\Debug\Odd  Even Position.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd  Even Position\obj\Debug\Odd  Even Position.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Odd  Even Position\obj\Debug\Odd  Even Position.pdb

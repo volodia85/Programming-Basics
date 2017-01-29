@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ImpressTheGirlFriend\bin\Debug\ImpressTheGirlFriend.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ImpressTheGirlFriend\obj\Debug\ImpressTheGirlFriend.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ImpressTheGirlFriend\bin\Debug\ImpressTheGirlFriend.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ImpressTheGirlFriend\bin\Debug\ImpressTheGirlFriend.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ImpressTheGirlFriend\obj\Debug\ImpressTheGirlFriend.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ImpressTheGirlFriend\obj\Debug\ImpressTheGirlFriend.pdb

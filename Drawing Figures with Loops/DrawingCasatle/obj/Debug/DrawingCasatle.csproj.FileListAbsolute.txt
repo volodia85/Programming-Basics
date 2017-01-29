@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawingCasatle\bin\Debug\DrawingCasatle.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawingCasatle\bin\Debug\DrawingCasatle.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawingCasatle\bin\Debug\DrawingCasatle.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawingCasatle\obj\Debug\DrawingCasatle.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawingCasatle\obj\Debug\DrawingCasatle.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Drawing Figures with Loops\DrawingCasatle\obj\Debug\DrawingCasatle.pdb

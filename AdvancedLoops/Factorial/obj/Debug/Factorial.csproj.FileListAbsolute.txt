@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.pdb

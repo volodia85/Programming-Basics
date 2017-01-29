@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Equal Words\bin\Debug\Equal Words.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Equal Words\bin\Debug\Equal Words.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Equal Words\bin\Debug\Equal Words.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Equal Words\obj\Debug\Equal Words.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Equal Words\obj\Debug\Equal Words.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Equal Words\obj\Debug\Equal Words.csprojResolveAssemblyReference.cache

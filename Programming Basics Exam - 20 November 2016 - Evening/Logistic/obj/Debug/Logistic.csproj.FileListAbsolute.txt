@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Logistic\bin\Debug\Logistic.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Logistic\bin\Debug\Logistic.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Logistic\bin\Debug\Logistic.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Logistic\obj\Debug\Logistic.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Logistic\obj\Debug\Logistic.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 20 November 2016 - Evening\Logistic\obj\Debug\Logistic.pdb

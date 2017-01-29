@@ -1,0 +1,3 @@
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\bin\Debug\Personal Titles.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\obj\Debug\Personal Titles.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\obj\Debug\Personal Titles.pdb

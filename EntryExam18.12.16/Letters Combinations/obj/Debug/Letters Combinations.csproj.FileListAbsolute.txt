@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Letters Combinations\bin\Debug\Letters Combinations.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Letters Combinations\bin\Debug\Letters Combinations.exe
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Letters Combinations\bin\Debug\Letters Combinations.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Letters Combinations\obj\Debug\Letters Combinations.exe
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Letters Combinations\obj\Debug\Letters Combinations.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\EntryExam18.12.16\Letters Combinations\obj\Debug\Letters Combinations.csprojResolveAssemblyReference.cache

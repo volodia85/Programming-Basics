@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\3 Equal Numbers\obj\Debug\3 Equal Numbers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\3 Equal Numbers\obj\Debug\3 Equal Numbers.pdb

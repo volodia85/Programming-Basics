@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Money\bin\Debug\Money.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Money\bin\Debug\Money.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Money\bin\Debug\Money.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Money\obj\Debug\Money.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\Money\obj\Debug\Money.pdb

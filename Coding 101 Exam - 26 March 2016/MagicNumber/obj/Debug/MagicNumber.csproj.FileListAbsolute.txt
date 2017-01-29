@@ -1,0 +1,5 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\MagicNumber\bin\Debug\MagicNumber.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\MagicNumber\bin\Debug\MagicNumber.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\MagicNumber\bin\Debug\MagicNumber.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\MagicNumber\obj\Debug\MagicNumber.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Coding 101 Exam - 26 March 2016\MagicNumber\obj\Debug\MagicNumber.pdb

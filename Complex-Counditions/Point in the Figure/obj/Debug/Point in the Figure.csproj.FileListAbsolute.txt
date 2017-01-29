@@ -1,0 +1,6 @@
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in the Figure\bin\Debug\Point in the Figure.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in the Figure\bin\Debug\Point in the Figure.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in the Figure\bin\Debug\Point in the Figure.pdb
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in the Figure\obj\Debug\Point in the Figure.csprojResolveAssemblyReference.cache
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in the Figure\obj\Debug\Point in the Figure.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point in the Figure\obj\Debug\Point in the Figure.pdb

@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Speed Info\bin\Debug\Speed Info.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Speed Info\bin\Debug\Speed Info.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Speed Info\bin\Debug\Speed Info.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Speed Info\obj\Debug\Speed Info.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Speed Info\obj\Debug\Speed Info.pdb

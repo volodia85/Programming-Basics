@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\Workers\bin\Debug\Workers.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\Workers\bin\Debug\Workers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\Workers\bin\Debug\Workers.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\Workers\obj\Debug\Workers.exe
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\Workers\obj\Debug\Workers.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\excercises\Workers\obj\Debug\Workers.csprojResolveAssemblyReference.cache

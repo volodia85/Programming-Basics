@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Vowels Sum\bin\Debug\Vowels Sum.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Vowels Sum\obj\Debug\Vowels Sum.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Vowels Sum\bin\Debug\Vowels Sum.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Vowels Sum\bin\Debug\Vowels Sum.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Vowels Sum\obj\Debug\Vowels Sum.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Vowels Sum\obj\Debug\Vowels Sum.pdb

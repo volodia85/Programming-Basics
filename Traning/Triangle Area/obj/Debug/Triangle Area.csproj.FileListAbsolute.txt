@@ -1,0 +1,6 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Triangle Area\bin\Debug\Triangle Area.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Triangle Area\bin\Debug\Triangle Area.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Triangle Area\bin\Debug\Triangle Area.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Triangle Area\obj\Debug\Triangle Area.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Triangle Area\obj\Debug\Triangle Area.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Triangle Area\obj\Debug\Triangle Area.csprojResolveAssemblyReference.cache

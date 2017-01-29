@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\MathTickets\bin\Debug\MathTickets.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\MathTickets\bin\Debug\MathTickets.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\MathTickets\bin\Debug\MathTickets.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\MathTickets\obj\Debug\MathTickets.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\MathTickets\obj\Debug\MathTickets.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\MathTickets\obj\Debug\MathTickets.pdb

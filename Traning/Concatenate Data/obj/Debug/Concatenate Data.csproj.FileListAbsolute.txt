@@ -1,0 +1,6 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Concatenate Data\bin\Debug\Concatenate Data.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Concatenate Data\bin\Debug\Concatenate Data.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Concatenate Data\bin\Debug\Concatenate Data.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Concatenate Data\obj\Debug\Concatenate Data.csprojResolveAssemblyReference.cache
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Concatenate Data\obj\Debug\Concatenate Data.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\Concatenate Data\obj\Debug\Concatenate Data.pdb

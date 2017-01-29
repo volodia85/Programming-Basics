@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\FirestStepsInCoding\Trangle\bin\Debug\Trangle.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\FirestStepsInCoding\Trangle\bin\Debug\Trangle.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\FirestStepsInCoding\Trangle\bin\Debug\Trangle.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\FirestStepsInCoding\Trangle\obj\Debug\Trangle.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\FirestStepsInCoding\Trangle\obj\Debug\Trangle.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\FirestStepsInCoding\Trangle\obj\Debug\Trangle.csprojResolveAssemblyReference.cache

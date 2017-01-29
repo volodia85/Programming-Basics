@@ -1,0 +1,6 @@
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Trade Comissions\bin\Debug\Trade Comissions.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Trade Comissions\bin\Debug\Trade Comissions.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Trade Comissions\bin\Debug\Trade Comissions.pdb
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Trade Comissions\obj\Debug\Trade Comissions.csprojResolveAssemblyReference.cache
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Trade Comissions\obj\Debug\Trade Comissions.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Trade Comissions\obj\Debug\Trade Comissions.pdb

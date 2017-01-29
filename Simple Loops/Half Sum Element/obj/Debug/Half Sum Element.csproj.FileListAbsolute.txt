@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Half Sum Element\bin\Debug\Half Sum Element.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Half Sum Element\bin\Debug\Half Sum Element.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Half Sum Element\bin\Debug\Half Sum Element.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Half Sum Element\obj\Debug\Half Sum Element.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Half Sum Element\obj\Debug\Half Sum Element.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple Loops\Half Sum Element\obj\Debug\Half Sum Element.pdb

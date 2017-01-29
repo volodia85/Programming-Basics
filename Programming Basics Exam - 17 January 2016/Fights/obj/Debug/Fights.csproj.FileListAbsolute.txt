@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\Fights\bin\Debug\Fights.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\Fights\bin\Debug\Fights.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\Fights\bin\Debug\Fights.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\Fights\obj\Debug\Fights.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\Fights\obj\Debug\Fights.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\Fights\obj\Debug\Fights.pdb

@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.pdb

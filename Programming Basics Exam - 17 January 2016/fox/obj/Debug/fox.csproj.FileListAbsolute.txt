@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\fox\bin\Debug\fox.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\fox\bin\Debug\fox.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\fox\bin\Debug\fox.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\fox\obj\Debug\fox.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\fox\obj\Debug\fox.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Programming Basics Exam - 17 January 2016\fox\obj\Debug\fox.pdb

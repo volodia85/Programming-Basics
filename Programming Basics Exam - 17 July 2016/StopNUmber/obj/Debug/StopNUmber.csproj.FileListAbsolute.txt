@@ -1,0 +1,5 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\StopNUmber\bin\Debug\StopNUmber.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\StopNUmber\bin\Debug\StopNUmber.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\StopNUmber\bin\Debug\StopNUmber.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\StopNUmber\obj\Debug\StopNUmber.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 17 July 2016\StopNUmber\obj\Debug\StopNUmber.pdb

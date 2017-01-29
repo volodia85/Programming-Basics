@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\DallyProfit\bin\Debug\DallyProfit.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\DallyProfit\bin\Debug\DallyProfit.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\DallyProfit\bin\Debug\DallyProfit.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\DallyProfit\obj\Debug\DallyProfit.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\DallyProfit\obj\Debug\DallyProfit.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\DallyProfit\obj\Debug\DallyProfit.pdb

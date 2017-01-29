@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Hospital\bin\Debug\Hospital.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Hospital\bin\Debug\Hospital.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Hospital\bin\Debug\Hospital.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Hospital\obj\Debug\Hospital.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Programming Basics Exam - 28 August 2016\Hospital\obj\Debug\Hospital.pdb

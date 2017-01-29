@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\SmartLili\bin\Debug\SmartLili.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\SmartLili\bin\Debug\SmartLili.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\SmartLili\bin\Debug\SmartLili.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\SmartLili\obj\Debug\SmartLili.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\SmartLili\obj\Debug\SmartLili.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 24 April 2016\SmartLili\obj\Debug\SmartLili.pdb

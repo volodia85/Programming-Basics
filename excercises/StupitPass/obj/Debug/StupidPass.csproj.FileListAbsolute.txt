@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass\bin\Debug\StupitPass.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass\bin\Debug\StupitPass.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass\bin\Debug\StupitPass.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass\obj\Debug\StupidPass.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass\obj\Debug\StupitPass.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\StupitPass\obj\Debug\StupitPass.pdb

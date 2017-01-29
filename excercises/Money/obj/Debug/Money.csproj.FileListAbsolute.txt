@@ -1,0 +1,6 @@
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\Money\bin\Debug\Money.exe.config
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\Money\bin\Debug\Money.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\Money\bin\Debug\Money.pdb
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\Money\obj\Debug\Money.exe
+C:\Users\volodia\documents\visual studio 2015\Projects\excercises\Money\obj\Debug\Money.pdb

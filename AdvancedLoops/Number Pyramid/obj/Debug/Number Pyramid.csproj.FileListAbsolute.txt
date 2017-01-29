@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Pyramid\bin\Debug\Number Pyramid.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Pyramid\bin\Debug\Number Pyramid.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Pyramid\bin\Debug\Number Pyramid.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Pyramid\obj\Debug\Number Pyramid.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Pyramid\obj\Debug\Number Pyramid.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\AdvancedLoops\Number Pyramid\obj\Debug\Number Pyramid.csprojResolveAssemblyReference.cache

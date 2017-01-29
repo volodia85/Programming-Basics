@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\devide\bin\Debug\devide.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\devide\bin\Debug\devide.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\devide\bin\Debug\devide.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\devide\obj\Debug\devide.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\devide\obj\Debug\devide.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Coding 101 Exam - 26 March 2016\devide\obj\Debug\devide.pdb

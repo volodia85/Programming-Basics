@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.pdb

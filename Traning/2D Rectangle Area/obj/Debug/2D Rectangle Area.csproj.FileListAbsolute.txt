@@ -1,0 +1,6 @@
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\2D Rectangle Area\bin\Debug\2D Rectangle Area.pdb
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\2D Rectangle Area\obj\Debug\2D Rectangle Area.csprojResolveAssemblyReference.cache
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\2D Rectangle Area\obj\Debug\2D Rectangle Area.exe
+c:\Users\volodia\documents\visual studio 2015\Projects\Traning\2D Rectangle Area\obj\Debug\2D Rectangle Area.pdb

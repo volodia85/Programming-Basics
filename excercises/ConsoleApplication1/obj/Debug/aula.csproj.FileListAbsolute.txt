@@ -1,0 +1,6 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ConsoleApplication1\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\excercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

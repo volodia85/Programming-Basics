@@ -1,0 +1,6 @@
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\bin\Debug\Personal Titles.exe.config
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\bin\Debug\Personal Titles.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\bin\Debug\Personal Titles.pdb
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\obj\Debug\Personal Titles.csprojResolveAssemblyReference.cache
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\obj\Debug\Personal Titles.exe
+c:\users\volodia\documents\visual studio 2015\Projects\Complex-Counditions\Personal Titles\obj\Debug\Personal Titles.pdb

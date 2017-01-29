@@ -1,0 +1,9 @@
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\bin\Debug\BGN_to_EUR_Converter.exe.config
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\bin\Debug\BGN_to_EUR_Converter.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\bin\Debug\BGN_to_EUR_Converter.pdb
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csprojResolveAssemblyReference.cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.Form1.resources
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.Properties.Resources.resources
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csproj.GenerateResource.Cache
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.exe
+C:\Users\volodia\Documents\Visual Studio 2015\Projects\Traning\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.pdb
